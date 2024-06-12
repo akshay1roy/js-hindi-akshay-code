@@ -1,1 +1,0 @@
-console.log("akshay kumar is a good boy");
